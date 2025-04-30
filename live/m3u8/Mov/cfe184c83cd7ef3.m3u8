@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1727459,FRAME-RATE=25.000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=1280x720
-https://raw.githubusercontent.com/warningfm/kano/main/video/ts/v1/Emily-Bloom-amazing-girl.m3u8
+http://cdn.nng.cloudns.us/video/ts/v1/Emily-Bloom-amazing-girl.m3u8
