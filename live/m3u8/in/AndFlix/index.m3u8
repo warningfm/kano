@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=596000,FRAME-RATE=25.000,RESOLUTION=640x360
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b596000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=264000,FRAME-RATE=25.000,RESOLUTION=320x180
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b264000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=996000,FRAME-RATE=25.000,RESOLUTION=854x480
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
