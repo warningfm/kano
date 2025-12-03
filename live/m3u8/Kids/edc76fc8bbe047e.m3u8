@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500567,FRAME-RATE=25.000,RESOLUTION=960x540
-https://why.biz.id/Iptv/oxygen.php?id=mentaritv&extension=m3u8&play
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
