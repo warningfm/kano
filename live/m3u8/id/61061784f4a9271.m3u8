@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1492000,FRAME-RATE=25.000,RESOLUTION=1280x720
-http://103.49.221.240/transtv/smil:transtv.smil/chunklist_w503228401_b744100_sleng.m3u8
+https://live.cnnindonesia.com/transtv/smil:transtv.smil/chunklist_w503228401_b744100_sleng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1128000,FRAME-RATE=25.000,RESOLUTION=854x480
-http://103.49.221.240/transtv/smil:transtv.smil/chunklist_w503228401_b544100_sleng.m3u8
+https://live.cnnindonesia.com/transtv/smil:transtv.smil/chunklist_w503228401_b544100_sleng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=628000,FRAME-RATE=25.000,RESOLUTION=640x360
-http://103.49.221.240/transtv/smil:transtv.smil/chunklist_w503228401_b344100_sleng.m3u8
+https://live.cnnindonesia.com/transtv/smil:transtv.smil/chunklist_w503228401_b344100_sleng.m3u8
